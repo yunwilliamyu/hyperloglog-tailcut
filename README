@@ -1,0 +1,6 @@
+Simple implementation of HLL-tailcut.
+
+Based off of Xiao, Zhou, Chen. "Better with Fewer Bits: Improving the Performance of Cardinality Estimation of Large Data Streams". 2017, InfoCom.
+
+Note that this implementation is pretty minimal and lacks most convenience features, as I implemented this just to play with HLL-tailcut, and not actually for production purposes.
+
